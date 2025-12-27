@@ -1,4 +1,10 @@
-![LeetCode](https://leetcard.jacoblin.cool/DocStep?ext=heatmap))
+<p align="center">
+  <a href="https://leetcode.com/DocStep/">
+    <img src="https://leetcard.jacoblin.cool/DocStep?border_radius=10" width="50%">
+  </a>
+</p>
+
+
 
 <!--
 **DocStep/DocStep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
