@@ -1,4 +1,4 @@
-## Hi there 👋
+![LeetCode](https://leetcard.jacoblin.cool/DocStep?theme=dark&font=Baloo&ext=activity)
 
 <!--
 **DocStep/DocStep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
