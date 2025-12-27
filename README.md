@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://leetcode.com/DocStep/">
-    <img src="https://leetcard.jacoblin.cool/DocStep?border_radius=10" width="50%">
+    <img src="https://leetcard.jacoblin.cool/DocStep?border_radius=10" width="70%">
   </a>
 </p>
 
